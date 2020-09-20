@@ -16,6 +16,8 @@ require('laravel-mix-merge-manifest');
 var spinner = ora('Building assets...')
 spinner.start()
 
+mix.config.fileLoaderDirs.fonts = 'src/fonts';
+mix.config.fileLoaderDirs.images = 'src/img';
 
 // Assets build
 mix.js('resources/js/app.js', 'src/js')
