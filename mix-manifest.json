@@ -1,7 +1,10 @@
 {
     "/src/js/app.js": "/src/js/app.js",
     "/src/css/vendor.css": "/src/css/vendor.css",
-    "/src/css/app.css": "/src/css/app.css",
+    "/src/css/styles.css": "/src/css/styles.css",
+    "/src/js/app.js.map": "/src/js/app.js.map",
     "/src/js/manifest.js": "/src/js/manifest.js",
-    "/src/js/vendor.js": "/src/js/vendor.js"
+    "/src/js/manifest.js.map": "/src/js/manifest.js.map",
+    "/src/js/vendor.js": "/src/js/vendor.js",
+    "/src/js/vendor.js.map": "/src/js/vendor.js.map"
 }

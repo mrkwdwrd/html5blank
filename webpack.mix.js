@@ -23,14 +23,9 @@ mix.config.fileLoaderDirs.images = 'src/img';
 mix.js('resources/js/app.js', 'src/js')
   .extract(['jquery', 'lodash', 'svg.js', 'jquery-validation', 'slick-carousel', 'sweetalert2'], 'src/js/vendor.js')
   .sass('resources/sass/vendor.scss', 'src/css')
-  .sass('resources/sass/app.scss', 'src/css')
+  .sass('resources/sass/app.scss', 'src/css/styles.css')
   .sourceMaps()
   .mergeManifest()
   .then(function () {
     spinner.stop()
   });
-
-
-if (mix.inProduction()) {
-  mix.version();
-}

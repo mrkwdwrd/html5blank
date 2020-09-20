@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./resources/js/app.js"],"names":["root","$","undefined","jQuery"],"mappings":"2IAAC,SAAUA,EAAMC,EAAGC,GACnB,aAMSC,QAJP,eAHF,I","file":"/src/js/app.js","sourcesContent":["(function( root, $, undefined ) {\n\t\"use strict\";\n\n\t$(function () {\n\t\t// DOM ready, take it away\n\t});\n\n} ( this, jQuery ));"],"sourceRoot":""}

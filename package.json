@@ -28,9 +28,7 @@
     "sass-loader": "7.*",
     "selectize": "^0.12.6",
     "slick-carousel": "^1.8.1",
-    "spectrum-colorpicker": "^1.8.0",
     "svg.js": "^2.7.1",
-    "sweetalert2": "^8.13.6",
-    "nouislider": "^14.5.0"
+    "sweetalert2": "^8.13.6"
   }
 }
